@@ -1,21 +1,21 @@
 ________________________
 Localizador de recursos:
 
-https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Plus
+https://raw.githubusercontent.com/khvpn/fastnetvpn/master/Plus
 
-https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Modulos/$_arq
+https://raw.githubusercontent.com/khvpn/fastnetvpn/master/Modulos/$_arq
 
-https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Install/list
+https://raw.githubusercontent.com/khvpn/fastnetvpn/master/Install/list
 
-https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Install/versao
+https://raw.githubusercontent.com/khvpn/fastnetvpn/master/Install/versao
 
-https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Install/stunnel.pem
+https://raw.githubusercontent.com/khvpn/fastnetvpn/master/Install/stunnel.pem
 
-https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Install/sshd_config
+https://raw.githubusercontent.com/khvpn/fastnetvpn/master/Install/sshd_config
 
-https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Install/addIP
+https://raw.githubusercontent.com/khvpn/fastnetvpn/master/Install/addIP
 
-https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Modulos/menuV2
+https://raw.githubusercontent.com/khvpn/fastnetvpn/master/Modulos/menuV2
 
 https://www.dropbox.com/s/tgkxdwb03r7w59r/badvpn-udpgw
 
